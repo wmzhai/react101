@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/wmzhai/react101/issues"
   },
-  "homepage": "https://github.com/wmzhai/react101#readme"
+  "homepage": "https://github.com/wmzhai/react101#readme",
+  "devDependencies": {
+    "babel-core" : "^5.8.*",
+    "babel-loader" : "^5.3.*",
+    "webpack" : "^1.12.*",
+    "webpack-dev-server" : "^1.10.*"
+  },
+  "dependencies": {
+    "react" : "^0.13.*"
+  }
 }
